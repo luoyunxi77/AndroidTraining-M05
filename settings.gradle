@@ -1,0 +1,2 @@
+rootProject.name='AndroidTraining-M05'
+include ':app'

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NetWork</string>
+    <string name="heading">Popular Movies</string>
+    <string name="movie_title">Movie-Title</string>
+    <string name="movie_overview">Movie-Overview</string>
+    <string name="movie_rating">9.9</string>
+    <string name="api_key">973086a14eaeb40eacd4912ffbbf3f59</string>
+</resources>
