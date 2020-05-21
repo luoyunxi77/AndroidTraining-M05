@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
 
             override fun onFailure(call: Call<Movie>, t: Throwable) {
                 //todo
-                Toast.makeText(this@MainActivity, "${t.message}", Toast.LENGTH_SHORT)
+                Toast.makeText(this@MainActivity, "${t.message}", Toast.LENGTH_SHORT).show()
             }
         })
     }
